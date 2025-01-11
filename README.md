@@ -1,5 +1,5 @@
 # E-BloodBank
-DEVELOPED BY JAYKUMAR PATEL
+DEVELOPED BY @Binium
 ```
 http://127.0.0.1:8000/
 ```
